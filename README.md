@@ -3,11 +3,11 @@
 <h2> Academic Individual Project Examples </h2>
 
 - <b> Graduate Machine Learning Course </b>
-  - [ITCS 6156 - Machine Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ITCS 6156 - Machine Learning](https://github.com/claire-ardern/ITCS6156-MachineLearning)
 - <b> Graduate Natural Language Processing (NLP) Course </b>
-  - [ITCS 5111 - NLP](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [ITCS 5111 - NLP](https://github.com/claire-ardern/ITCS5111-NLP) 
 - <b> Undergraduate Machine Learning Course </b>
-  - [ECGR 4105 - Intro to Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [ECGR 4105 - Intro to Machine Learning](https://github.com/claire-ardern/Intro-to-Machine-Learning)
 
 <h2> Academic Team Project Examples </h2>
 
