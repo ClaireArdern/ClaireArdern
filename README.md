@@ -1,5 +1,8 @@
 <h1> Claire Ardern <br/> M.S. Computer Science, B.S. Computer Engineering </h1>
 
+<h2> Data Analytics Case Studies </h2>
+<h3> [Google Data Analytics Certificate: Capstone Project]() </h3>
+
 <h2> Academic Individual Project Examples </h2>
 
 - <b> Graduate Machine Learning Course </b>
