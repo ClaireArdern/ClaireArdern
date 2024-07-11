@@ -3,7 +3,6 @@
 <h2> Data Analytics Case Studies </h2>
 
 - <b> Google Data Analytics Certificate Capstone Project </b>
-
   - [Case Study: How Can a Wellness Technology Company Play It Smart?](https://github.com/ClaireArdern/Google-Data-Analytics-Cert-Case-Study)
 
 <h2> Academic Individual Project Examples </h2>
